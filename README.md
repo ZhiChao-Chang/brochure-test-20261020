@@ -5,7 +5,7 @@ Temporary GitHub Pages test for a two-page SLAI 2027 admissions brochure.
 - `index.html`: bilingual viewing and download entry page.
 - `brochure.pdf`: byte-identical copy of the supplied PDF.
 - `previews/`: lightweight previews rendered from the PDF.
-- `qrcode.png`: QR code pointing to the entry page.
+- `qrcode.png`: QR code pointing directly to `brochure.pdf`, without an intermediate page.
 
 This is a test publication on a personal account, not an institutional website.
 No analytics, external fonts, or third-party page dependencies are used.

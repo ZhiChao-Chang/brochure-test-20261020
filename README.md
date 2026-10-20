@@ -1,9 +1,9 @@
 # Brochure access test
 
-Temporary GitHub Pages test for a two-page SLAI 2027 admissions brochure.
+Temporary GitHub Pages test for a six-page portrait reading edition of the SLAI 2027 admissions brochure.
 
 - `index.html`: bilingual viewing and download entry page.
-- `brochure.pdf`: byte-identical copy of the supplied PDF.
+- `brochure.pdf`: six-page reading edition split from the original two-sheet print layout, with artwork preserved.
 - `previews/`: lightweight previews rendered from the PDF.
 - `qrcode.png`: QR code pointing directly to `brochure.pdf`, without an intermediate page.
 
